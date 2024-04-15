@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Ib4s/Ib4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Opa!!! Meu nome é Eduardo de Regueiro Costa.
+- Sou um estudante de Engenharia da Computação no CEUB
 
-Here are some ideas to get you started:
+## Daily Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img align="center" alt="ERC-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
+</div><br/>
+
+## GitHub Stats
+![Ib4s's GitHub stats](https://github-readme-stats.vercel.app/api?username=ib4s&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ib4s&size_weight=0.5&count_weight=0.5)
