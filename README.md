@@ -1,5 +1,5 @@
 
-# Opa!!! Meu nome é Eduardo de Regueiro Costa.
+# Meu nome é Eduardo de Regueiro Costa.
 - Sou um estudante de Engenharia da Computação no CEUB
 
 ## Daily Tools
